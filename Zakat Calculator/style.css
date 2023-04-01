@@ -1,0 +1,122 @@
+/* @media only screen and (max-width: 767px) */
+.container {
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto;
+/* background-color: bisque; */
+border: thin solid black;
+margin-top: 50px;
+color: rgb(101, 33, 33);
+border-radius: 15px;
+border-color: rgb(93, 15, 15);
+border-width: 5px;
+padding-bottom: 30px;
+margin-bottom: 50px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@media only screen and (max-width: 767px)
+div {
+    display: block;
+}
+
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25rem;
+    text-align: center;
+    height: auto;
+}
+
+.heading {
+    padding-top: 15px;
+
+}
+
+
+.heading > span {
+    
+   padding: auto;
+  
+   font-size: 20px;
+   font-weight: bolder;
+}
+#submit {
+    padding: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    color: rgb(101, 33, 33);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+#money {
+margin-top: 7px;
+color: rgb(101, 33, 33);
+font-size: 15px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(72, 16, 22);
+    margin-top: 50px;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(72, 16, 22);
+    
+    margin-top: 20px;
+}
+
+
+#gold {
+    margin-top: 7px;
+    color: rgb(101, 33, 33);
+    font-size: 15px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+    }
+
+    #silver {
+        margin-top: 7px;
+        color: rgb(101, 33, 33);
+        font-size: 15px;
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 10px;
+        }
+
+        #zakat-amount {
+            margin-top: 7px;
+            color: rgb(101, 33, 33);
+            font-size: 20px;
+            font-weight: bolder;
+        }
+
+
+
+
+
+
+
